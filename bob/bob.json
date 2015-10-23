@@ -1,0 +1,158 @@
+{
+    "bob": 
+	{
+        "mood": 
+		{
+			"description": "test",
+			"tags": "testtag",
+			"message": "Yes it is. Programming sucks"
+		},
+			"description": "",
+			"tags": "",
+			"message": "Yes it is. Programming sucks"
+		},
+		{
+			"description": "excited",
+			"tags": "happy excited good hopeful nice excited",
+			"message": "YES. That's the spirit"
+		},
+		{
+			"description": "meeting",
+			"tags": "meeting meet team talk",
+			"message": "what time are we talking with the TEAM"
+		},
+		{
+			"description": "frustrated",
+			"tags": "programming upset frustrated defaults",
+			"message": "now the defaults are NOT the same"
+		},
+		{
+			"description": "sheila",
+			"tags": "sheila lebouf done accomplish goals",
+			"message": "then DO IT"
+		},
+		{
+			"description": "",
+			"tags": "",
+			"message": "oh boy, jump right in with BOTH feet"
+		},
+		{
+			"description": "fucked",
+			"tags": "problem fucked shit fuck bad code pca carepoint",
+			"message": "Shit - got a problem"
+		},
+		{
+			"description": "commit",
+			"tags": "merge submit help",
+			"message": "ok, thats nice.  But the application doesn't run on my local now"
+		},
+		{
+			"description": "",
+			"tags": "",
+			"message": "let me rebuild"
+		},
+		{
+			"description": "",
+			"tags": "",
+			"message": "don't mess with the requirements - they never change!"
+		},
+		{
+			"description": "",
+			"tags": "",
+			"message": "i don't care as long as the field NAMES are the same"
+		},
+		{
+			"description": "",
+			"tags": "",
+			"message": "You fill in what is supposed to be there.  I will ONLY blank them out"
+		},
+		{
+			"description": "",
+			"tags": "",
+			"message": "I just foud out I'm going to be a grandpa again"
+		},
+		{
+			"description": "",
+			"tags": "",
+			"message": "ok, your right, but they DO want to use it"
+		},
+		{
+			"description": "",
+			"tags": "",
+			"message": "HEY - SAM!!!!!   Wake Up"
+		},
+		{
+			"description": "",
+			"tags": "",
+			"message": "what EVER!!!!"
+		},
+		{
+			"description": "",
+			"tags": "",
+			"message": "ABSOLUTELY NO CONVERATIONS"
+		},
+		{
+			"description": "",
+			"tags": "",
+			"message": "i HAVE a EDMX change pending"
+		},
+		{
+			"description": "",
+			"tags": "",
+			"message": "yes  - why?"
+		},
+		{
+			"description": "",
+			"tags": "",
+			"message": "wooohoooo!"
+		},
+		{
+			"description": "",
+			"tags": "",
+			"message": "I FORGOT MY HWAIIAN SHIRT"
+		},
+		{
+			"description": "",
+			"tags": "",
+			"message": "speaking of which, its time for my DAILY therapy session"
+		},
+		{
+			"description": "",
+			"tags": "",
+			"message": "SAM, JUST ANSWER THE QUESTION"
+		},
+		{
+			"description": "",
+			"tags": "",
+			"message": "ok, i dont care"
+		},
+		{
+			"description": "",
+			"tags": "",
+			"message": "Yes it is. Programming sucks"
+		},
+		{
+			"description": "",
+			"tags": "",
+			"message": ""
+		}
+		
+	}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
