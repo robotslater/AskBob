@@ -126,6 +126,21 @@ var text = [{
 }, {
     "tags": "",
         "message": "Yes it is. Programming sucks"
+}, {
+    "tags":"",
+    "message": "this is bullshit - then something will be late"
+}, {
+    "tags":"",
+    "message": "I can't do both at once"
+}, {
+    "tags":"",
+    "message": "fyi , the bridge is open"
+}, {
+    "tags":"",
+    "message": "same thing same Thing same THING"
+}, {
+    "tags":"",
+    "message": "who is talking? I can't hear them very well"
 }];
 
 var obj = JSON.parse(text);
