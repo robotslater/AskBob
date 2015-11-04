@@ -54,3 +54,10 @@ h1 {
     clear:both;
     padding:5px 10px;
 }
+
+#disclaimer {
+    font-size:12px;
+    margin:20px 0;
+    text-align:center;
+    color:#fff;
+}
