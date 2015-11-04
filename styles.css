@@ -29,7 +29,7 @@ h1 {
     outline:none;
 }
 #output {
-    max-width:900px;
+    max-width:600px;
     overflow:hidden;
     margin:20px 0;
 }
